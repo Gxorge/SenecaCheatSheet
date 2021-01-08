@@ -2,7 +2,7 @@
 This is a little tool that gets all the answers for an assignment and formats it so you can read it.
 
 ## Prerequisites
-Make sure you are <b>logged into Seneca<b> on a suitable browser (this guide will have Chromium-based browsers in-mind) and have .NET Framework 4.8
+Make sure you are <b>logged into Seneca</b> on a suitable browser (this guide will have Chromium-based browsers in-mind) and have .NET Framework 4.8
 <br>
 This will probably only work on Windows.
 

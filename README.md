@@ -1,5 +1,5 @@
 # Seneca Cheat Sheet
-This is a little tool that gets all the answers for an assignment and formats it so you can read it.
+This is a little tool that gets all the answers for an assignment and formats it so you can read it. Please note this is currently missing 2 question types, they will be added soon.
 
 ## Prerequisites
 Make sure you are <b>logged into Seneca</b> on a suitable browser (this guide will have Chromium-based browsers in-mind) and have .NET Framework 4.8

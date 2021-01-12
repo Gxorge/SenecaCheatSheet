@@ -1,9 +1,7 @@
 # Seneca Cheat Sheet
 This is a little tool that gets all the answers for an assignment and formats it so you can read it.
-
-## Bugs
-This currently doesn't work on 2 question types (to do with exact answer questions).
-I also noticed that this doesn't work on some courses, I'm currently working on a way around this to do with intercepting the data.
+<br>
+**Please Note:** This is in very early testing and often won't contain correct answers and is missing some question types.
 
 ## Prerequisites
 Make sure you are <b>logged into Seneca</b> on a suitable browser (this guide will have Chromium-based browsers in-mind) and have .NET Framework 4.8

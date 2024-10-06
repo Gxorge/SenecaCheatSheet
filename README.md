@@ -3,6 +3,9 @@ This is a little tool that gets all the answers for an assignment and formats it
 <br>
 **Please Note:** This is in very early testing and often won't contain correct answers and is missing some question types.
 
+## !! This probably no-longer works !!
+This hasn't been updated in over 3 years, and I don't plan too.
+
 ## Prerequisites
 Make sure you are <b>logged into Seneca</b> on a suitable browser (this guide will have Chromium-based browsers in-mind) and have .NET Framework 4.8
 <br>
